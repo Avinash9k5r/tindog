@@ -1,2 +1,1 @@
-# tindog
-A simple website created by using HTML, CSS and Bootstrap which is something like landing page of a startup....
+TinDog Starting Files
